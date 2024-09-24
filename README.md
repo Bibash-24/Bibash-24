@@ -116,5 +116,8 @@
   <a href="https://buymeacoffee.com/jagalte" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
   </a>
+  <a href="https://www.ko-fi.com/jagalte">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" />
+  </a>
 </div>
 
