@@ -89,11 +89,9 @@
 </p>
 
 <h2>⚡️ Where to find me</h2>
-<p>
-  <a target="_blank" href="https://www.linkedin.com/in/bbus24/" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" />
-  </a>
-</p>
+<div align="center">
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bbus24/)
+</div>
 
 <div align="center">
   <span style="pointer-events: none;">
@@ -115,7 +113,7 @@
 
 <h2>❤️ Support Me</h2>
 <div align="center">
-  <a href="https://www.buymeacoffee.com/https://buymeacoffee.com/jagalte">
+  <a href="https://buymeacoffee.com/jagalte" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
   </a>
 </div>
