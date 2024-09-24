@@ -112,3 +112,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Bibash-24" alt="trophies" title="Trophies" />
   </span>
 </div>
+
+<h2>❤️ Support Me</h2>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/https://buymeacoffee.com/jagalte">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
+  </a>
+</div>
+
