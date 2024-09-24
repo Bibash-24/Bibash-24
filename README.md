@@ -1,5 +1,3 @@
-<h1 id="greeting"></h1>
-
 <style>
   .morning-animation {
     width: 50px;
@@ -112,6 +110,10 @@
 
   getGreeting();
 </script>
+
+<h1 id="greeting"></h1>
+
+
 <p></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
