@@ -1,13 +1,4 @@
 
-```python
-import os
-
-# Path to your Python script
-script_path = "greeting.py"
-
-# Execute the script to display the greeting
-greeting = os.popen(f"python {script_path}").read().strip()
-print(greeting)
 
 ###
 
