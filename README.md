@@ -1,47 +1,114 @@
-# Hi 👋
+<h1>Hi 👋</h1>
+<p></p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p>
+    <span style="pointer-events: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="c" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="cplusplus" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" title="csharp" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" title="java" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="php" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" title="vuejs" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="react" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" title="angularjs" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" title="angular" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" title="bootstrap" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="css3" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html5" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="redux" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" title="flutter" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" title="dart" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="mysql" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" title="mssql" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" title="chartjs" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" title="dotnet" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" title="photoshop" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="figma" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="postman" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" title="nextjs" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" title="gatsby" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="42" height="42" />
+    </span>
+    <span style="pointer-events: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="linux" width="42" height="42" />
+    </span>
+</p>
 
-## 🚀 Languages and Tools I Use
-
-![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg "C Language"){: width="42" height="42" alt="C" title="C"}
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg "C++ Language"){: width="42" height="42" alt="C++" title="C++"}
-![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg "C# Language"){: width="42" height="42" alt="C#" title="C#"}
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg "Java Language"){: width="42" height="42" alt="Java" title="Java"}
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg "JavaScript Language"){: width="42" height="42" alt="JavaScript" title="JavaScript"}
-![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg "TypeScript Language"){: width="42" height="42" alt="TypeScript" title="TypeScript"}
-![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg "PHP Language"){: width="42" height="42" alt="PHP" title="PHP"}
-![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg "Vue.js Framework"){: width="42" height="42" alt="Vue.js" title="Vue.js"}
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg "React Framework"){: width="42" height="42" alt="React" title="React"}
-![Angular](https://angular.io/assets/images/logos/angular/angular.svg "Angular Framework"){: width="42" height="42" alt="Angular" title="Angular"}
-![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg "Bootstrap Framework"){: width="42" height="42" alt="Bootstrap" title="Bootstrap"}
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg "CSS3"){: width="42" height="42" alt="CSS3" title="CSS3"}
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg "HTML5"){: width="42" height="42" alt="HTML5" title="HTML5"}
-![Redux](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg "Redux"){: width="42" height="42" alt="Redux" title="Redux"}
-![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg "Flutter Framework"){: width="42" height="42" alt="Flutter" title="Flutter"}
-![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg "Dart Language"){: width="42" height="42" alt="Dart" title="Dart"}
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg "MySQL Database"){: width="42" height="42" alt="MySQL" title="MySQL"}
-![SQL Server](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg "Microsoft SQL Server"){: width="42" height="42" alt="SQL Server" title="SQL Server"}
-![Chart.js](https://www.chartjs.org/media/logo-title.svg "Chart.js Library"){: width="42" height="42" alt="Chart.js" title="Chart.js"}
-![.NET](https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg ".NET Framework"){: width="42" height="42" alt=".NET" title=".NET"}
-![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg "Adobe Photoshop"){: width="42" height="42" alt="Photoshop" title="Photoshop"}
-![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg "Figma"){: width="42" height="42" alt="Figma" title="Figma"}
-![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg "Postman"){: width="42" height="42" alt="Postman" title="Postman"}
-![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg "Next.js Framework"){: width="42" height="42" alt="Next.js" title="Next.js"}
-![Gatsby](https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg "Gatsby Framework"){: width="42" height="42" alt="Gatsby" title="Gatsby"}
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg "Git"){: width="42" height="42" alt="Git" title="Git"}
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg "Linux"){: width="42" height="42" alt="Linux" title="Linux"}
-
-## ⚡️ Where to find me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bbus24/)
-
-## 📊 My GitHub Stats
+<h2>⚡️ Where to find me</h2>
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/bbus24/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" />
+  </a>
+</p>
 
 <div align="center">
+  <span style="pointer-events: none;">
     <img src="https://github-readme-stats.vercel.app/api?username=Bibash-24&show_icons=true&locale=en" height="150" alt="stats graph" title="GitHub Stats" />
+  </span>
+  <span style="pointer-events: none;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bibash-24&show_icons=true&locale=en&layout=compact" height="150" alt="languages graph" title="Top Languages" />
+  </span>
 </div>
 
 <div align="center">
+  <span style="pointer-events: none;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bibash-24&" alt="contribution graph" title="Contribution Streak" />
+  </span>
+  <span style="pointer-events: none;">
     <img src="https://github-profile-trophy.vercel.app/?username=Bibash-24" alt="trophies" title="Trophies" />
+  </span>
 </div>
