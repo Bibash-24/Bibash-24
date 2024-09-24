@@ -90,7 +90,7 @@
 
 <h2>⚡️ Where to find me</h2>
 <div align="center">
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bbus24/)
+ <a target="_blank" href="https://www.linkedin.com/in/bbus24/" style="display: inline-block;"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </div>
 
 <div align="center">
