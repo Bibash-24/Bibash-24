@@ -38,6 +38,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bibash-24&show_icons=true&locale=en&layout=compact" alt="contribution graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bibash-24&" alt="contribution graph"  />
   <img src="https://github-profile-trophy.vercel.app/?username=Bibash-24" alt="trophies"  />
 </div>
