@@ -1,4 +1,117 @@
-<h1>Hi 👋</h1>
+<h1 id="greeting"></h1>
+
+<style>
+  .morning-animation {
+    width: 50px;
+    height: 50px;
+    background: yellow;
+    border-radius: 50%;
+    box-shadow: 0 0 20px rgba(255, 215, 0, 0.7);
+    animation: sun-rise 3s ease-in-out infinite alternate;
+  }
+
+  .afternoon-animation {
+    width: 50px;
+    height: 50px;
+    background: orange;
+    border-radius: 50%;
+    box-shadow: 0 0 15px rgba(255, 165, 0, 0.7);
+    animation: sun-glow 3s ease-in-out infinite alternate;
+  }
+
+  .evening-animation {
+    width: 50px;
+    height: 50px;
+    background: red;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(255, 69, 0, 0.7);
+    animation: sunset-fade 3s ease-in-out infinite alternate;
+  }
+
+  .night-animation {
+    width: 50px;
+    height: 50px;
+    background: darkblue;
+    border-radius: 50%;
+    position: relative;
+    animation: moon-glow 4s ease-in-out infinite alternate;
+  }
+
+  .night-animation::before {
+    content: "";
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 20px;
+    height: 20px;
+    background: lightgray;
+    border-radius: 50%;
+  }
+
+  /* Animations */
+  @keyframes sun-rise {
+    from {
+      transform: translateY(10px);
+    }
+    to {
+      transform: translateY(-10px);
+    }
+  }
+
+  @keyframes sun-glow {
+    from {
+      transform: scale(1);
+      box-shadow: 0 0 20px rgba(255, 165, 0, 0.5);
+    }
+    to {
+      transform: scale(1.2);
+      box-shadow: 0 0 30px rgba(255, 165, 0, 0.9);
+    }
+  }
+
+  @keyframes sunset-fade {
+    from {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    to {
+      opacity: 0.7;
+      transform: translateY(5px);
+    }
+  }
+
+  @keyframes moon-glow {
+    from {
+      transform: scale(1);
+      box-shadow: 0 0 20px rgba(173, 216, 230, 0.7);
+    }
+    to {
+      transform: scale(1.1);
+      box-shadow: 0 0 30px rgba(173, 216, 230, 1);
+    }
+  }
+</style>
+
+<script>
+  function getGreeting() {
+    const currentHour = new Date().getHours();
+    let greeting;
+
+    if (currentHour >= 5 && currentHour < 12) {
+      greeting = `<span>Good Morning</span> <div class="morning-animation"></div>`;
+    } else if (currentHour >= 12 && currentHour < 17) {
+      greeting = `<span>Good Afternoon</span> <div class="afternoon-animation"></div>`;
+    } else if (currentHour >= 17 && currentHour < 21) {
+      greeting = `<span>Good Evening</span> <div class="evening-animation"></div>`;
+    } else {
+      greeting = `<span>Good Night</span> <div class="night-animation"></div>`;
+    }
+
+    document.getElementById('greeting').innerHTML = greeting;
+  }
+
+  getGreeting();
+</script>
 <p></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
