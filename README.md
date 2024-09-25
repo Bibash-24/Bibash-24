@@ -93,6 +93,7 @@
  <a target="_blank" href="https://www.linkedin.com/in/bbus24/" style="display: inline-block;"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </div>
 
+<h2> 📊 Stats</h2>
 <div align="center">
   <span style="pointer-events: none;">
     <img src="https://github-readme-stats.vercel.app/api?username=Bibash-24&show_icons=true&locale=en" height="150" alt="stats graph" title="GitHub Stats" />
