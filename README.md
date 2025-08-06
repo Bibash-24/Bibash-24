@@ -89,6 +89,9 @@
     <span style="pointer-events: none;">
         <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/strapi.svg" alt="strapi" title="strapi" width="42" height="42" />
     </span>
+    <span style="pointer-events: none;">
+        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" title="wordpress" width="42" height="42" />
+    </span>
 </p>
 
 <h2>⚡️ Where to find me</h2>
