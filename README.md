@@ -86,6 +86,9 @@
     <span style="pointer-events: none;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="linux" width="42" height="42" />
     </span>
+    <span style="pointer-events: none;">
+        <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/strapi.svg" alt="strapi" title="strapi" width="42" height="42" />
+    </span>
 </p>
 
 <h2>⚡️ Where to find me</h2>
