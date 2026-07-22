@@ -1,0 +1,36 @@
+<svg width="760" height="272" viewBox="0 0 760 272" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','Courier New',monospace">
+  <defs>
+    <linearGradient id="termBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a0e14"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="758" height="270" rx="10" fill="url(#termBg)" stroke="#1e3a8a" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <rect x="1" y="1" width="758" height="30" rx="10" fill="#111827"/>
+  <rect x="1" y="21" width="758" height="10" fill="#111827"/>
+  <circle cx="22" cy="16" r="5.5" fill="#ff5f56"/>
+  <circle cx="40" cy="16" r="5.5" fill="#ffbd2e"/>
+  <circle cx="58" cy="16" r="5.5" fill="#27c93f"/>
+  <text x="380" y="20" text-anchor="middle" font-size="12" fill="#8b949e">bibash@portfolio: ~</text>
+
+  <g font-size="15">
+    <text x="20" y="56"><tspan fill="#2563eb" font-weight="600">$ </tspan><tspan fill="#c9d1d9">whoami</tspan></text>
+    <text x="20" y="78"><tspan fill="#2563eb">&gt; </tspan><tspan fill="#f8f8f8">Bibash :: Full-Stack Developer :: Solution Architect :: Technical Consultant</tspan></text>
+
+    <text x="20" y="110"><tspan fill="#2563eb" font-weight="600">$ </tspan><tspan fill="#c9d1d9">uptime</tspan></text>
+    <text x="20" y="132"><tspan fill="#2563eb">&gt; </tspan><tspan fill="#f8f8f8">Building and shipping scalable products across web, mobile, and cloud.</tspan></text>
+
+    <text x="20" y="164"><tspan fill="#2563eb" font-weight="600">$ </tspan><tspan fill="#c9d1d9">cat note.txt</tspan></text>
+    <text x="20" y="186"><tspan fill="#2563eb">&gt; </tspan><tspan fill="#f8f8f8">Always exploring new technologies, architectures, and ideas worth building.</tspan></text>
+
+    <text x="20" y="218"><tspan fill="#2563eb" font-weight="600">$ </tspan><tspan fill="#c9d1d9">status</tspan></text>
+    <text x="20" y="240"><tspan fill="#2563eb">&gt; </tspan><tspan fill="#1e40af" font-weight="700">[██████████] </tspan><tspan fill="#f8f8f8">Open to impactful projects and meaningful collaborations.</tspan></text>
+  </g>
+
+  <rect x="20" y="250" width="9" height="14" fill="#2563eb">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
