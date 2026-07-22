@@ -41,12 +41,7 @@ $ status
 
 <img src="https://streak-stats.demolab.com?user=Bibash-24&hide_border=true&background=0D1117&ring=A855F7&fire=6D28D9&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=F8F8F8&sideNums=F8F8F8&dates=8b949e" alt="streak" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bibash-24&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bibash-24&show_icons=true&theme=dark&hide_border=true&layout=compact" height="150" alt="languages graph" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bibash-24&bg_color=0d1117&color=a855f7&line=6d28d9&point=f8f8f8&area=true&area_color=6d28d9&hide_border=true" width="94%" alt="activity graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bibash-24&theme=darkhub&no-frame=true" alt="trophies" />
 
 ## 🐍 The Hunt
 
