@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/bbus24/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Say_hello-38bdf8?style=for-the-badge&labelColor=0d1117" alt="Email" /></a>
+<a href="mailto:bibesh.di2022@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-38bdf8?style=for-the-badge&labelColor=0d1117" alt="Email" /></a>
 
 </div>
 
@@ -24,12 +24,13 @@ $ cat note.txt
 > Always exploring new technologies, architectures, and ideas worth building.
 
 $ status
-> [██████████] Open to impactful projects and meaningful collaborations.
 ```
+
+<img src="https://raw.githubusercontent.com/Bibash-24/Bibash-24/main/assets/status-bar.svg" alt="status bar" />
 
 <div align="center">
 
-## ⚡ Arsenal
+## 🛠️ Loadout
 
 <table>
 <tr>
@@ -60,10 +61,18 @@ $ status
 <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48" title="Git" alt="Git" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48" title="Linux" alt="Linux" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=wordpress" width="48" title="WordPress" alt="WordPress" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48" title="MongoDB" alt="MongoDB" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongoose" width="48" title="Mongoose" alt="Mongoose" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=sqlserver" width="48" title="MS SQL Server" alt="MS SQL Server" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=chartjs" width="48" title="Chart.js" alt="Chart.js" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=photoshop" width="48" title="Photoshop" alt="Photoshop" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=strapi" width="48" title="Strapi" alt="Strapi" /></td>
 </tr>
 </table>
 
-## 🌆 Contribution City
+## 🌃 Skyline
 
 <img src="https://raw.githubusercontent.com/Bibash-24/Bibash-24/main/profile-3d-contrib/profile-night-rainbow.svg" width="94%" alt="3D contribution graph" />
 
@@ -73,15 +82,15 @@ $ status
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bibash-24&bg_color=0d1117&color=38bdf8&line=1d4ed8&point=f8f8f8&area=true&area_color=1d4ed8&hide_border=true" width="94%" alt="activity graph" />
 
-## 🐍 The Hunt
+## 🎯 The Hunt
 
 <img src="https://raw.githubusercontent.com/Bibash-24/Bibash-24/output/github-snake.svg" width="94%" alt="contribution snake" />
 
-## ⚡️ Where to find me
+## 🛰️ Signal
 
 <a target="_blank" href="https://www.linkedin.com/in/bbus24/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 
-## ❤️ Support Me
+## 🚀 Fuel the Mission
 
 <a href="https://buymeacoffee.com/jagalte" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" /></a>
 <a href="https://www.ko-fi.com/jagalte"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" /></a>
