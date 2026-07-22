@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d0d0d,50:6d28d9,100:a855f7&text=BIBASH&fontColor=f8f8f8&fontSize=32&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:1d4ed8,100:38bdf8&text=B'BUS&fontColor=f8f8f8&fontSize=32&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=A855F7&center=true&vCenter=true&width=640&lines=Full+Stack+Developer;React+%C2%B7+Vue+%C2%B7+Angular+%C2%B7+.NET+%C2%B7+PHP;Building+clean%2C+scalable+web+apps;Always+learning%2C+always+shipping" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=A855F7&center=true&vCenter=true&width=640&lines=Full+Stack+Developer;Building+clean%2C+scalable+apps;Always+learning%2C+always+shipping" alt="typing" />
 
 <br/>
 
@@ -15,16 +15,16 @@
 
 ```bash
 $ whoami
-> bibash :: full stack developer :: web & mobile
+> Bibash :: Full-Stack Developer :: Solution Architect :: Technical Consultant
 
 $ uptime
-> shipping projects across web, mobile, and everything in between
+> Building and shipping scalable products across web, mobile, and cloud.
 
 $ cat note.txt
-> always exploring new stacks, tools, and ideas worth building.
+> Always exploring new technologies, architectures, and ideas worth building.
 
 $ status
-> [██████████] open to interesting projects & collaborations
+> [██████████] Open to impactful projects and meaningful collaborations.
 ```
 
 <div align="center">
