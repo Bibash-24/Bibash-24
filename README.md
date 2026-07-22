@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:1d4ed8,100:38bdf8&text=B'BUS&fontColor=f8f8f8&fontSize=32&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=A855F7&center=true&vCenter=true&width=640&lines=Full+Stack+Developer;Building+clean%2C+scalable+apps;Always+learning%2C+always+shipping" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=640&lines=Full+Stack+Developer;Building+clean%2C+scalable+apps;Always+learning%2C+always+shipping" alt="typing" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/bbus24/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Say_hello-a855f7?style=for-the-badge&labelColor=0d1117" alt="Email" /></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Say_hello-38bdf8?style=for-the-badge&labelColor=0d1117" alt="Email" /></a>
 
 </div>
 
@@ -69,13 +69,13 @@ $ status
 
 ## 📊 Telemetry
 
-<img src="https://streak-stats.demolab.com?user=Bibash-24&hide_border=true&background=0D1117&ring=A855F7&fire=6D28D9&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=F8F8F8&sideNums=F8F8F8&dates=8b949e" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=Bibash-24&hide_border=true&background=0D1117&ring=38BDF8&fire=1D4ED8&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=F8F8F8&sideNums=F8F8F8&dates=8b949e" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bibash-24&bg_color=0d1117&color=a855f7&line=6d28d9&point=f8f8f8&area=true&area_color=6d28d9&hide_border=true" width="94%" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bibash-24&bg_color=0d1117&color=38bdf8&line=1d4ed8&point=f8f8f8&area=true&area_color=1d4ed8&hide_border=true" width="94%" alt="activity graph" />
 
 ## 🐍 The Hunt
 
-<img src="https://raw.githubusercontent.com/Bibash-24/Bibash-24/output/github-snake-dark.svg" width="94%" alt="contribution snake" />
+<img src="https://raw.githubusercontent.com/Bibash-24/Bibash-24/output/github-snake.svg" width="94%" alt="contribution snake" />
 
 ## ⚡️ Where to find me
 
@@ -88,6 +88,6 @@ $ status
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0d0d0d,50:6d28d9,100:a855f7&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0d1117,50:1d4ed8,100:38bdf8&section=footer" width="100%" alt="footer" />
 
 </div>
