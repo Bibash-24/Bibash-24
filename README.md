@@ -15,23 +15,53 @@
 
 ```bash
 $ whoami
-> Bibash :: Full-Stack Developer :: Solution Architect :: Technical Consultant
+> bibash :: full stack developer :: web & mobile
 
 $ uptime
-> Building and shipping scalable products across web, mobile, and cloud.
+> shipping projects across web, mobile, and everything in between
 
 $ cat note.txt
-> Always exploring new technologies, architectures, and ideas worth building.
+> always exploring new stacks, tools, and ideas worth building.
 
 $ status
-> [██████████] Open to impactful projects and meaningful collaborations.
+> [██████████] open to interesting projects & collaborations
 ```
 
 <div align="center">
 
 ## ⚡ Arsenal
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,php,vue,react,angular,bootstrap,css,html,redux,flutter,dart,mysql,dotnet,figma,nextjs,git,linux,wordpress&perline=9" alt="stack" />
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=c" width="48" title="C" alt="C" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48" title="C++" alt="C++" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cs" width="48" title="C#" alt="C#" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="48" title="Java" alt="Java" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript" alt="JavaScript" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript" alt="TypeScript" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=php" width="48" title="PHP" alt="PHP" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vue" width="48" title="Vue.js" alt="Vue.js" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="48" title="React" alt="React" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=angular" width="48" title="Angular" alt="Angular" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" title="Bootstrap" alt="Bootstrap" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" title="CSS3" alt="CSS3" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="48" title="HTML5" alt="HTML5" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=redux" width="48" title="Redux" alt="Redux" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=flutter" width="48" title="Flutter" alt="Flutter" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=dart" width="48" title="Dart" alt="Dart" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL" alt="MySQL" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="48" title=".NET" alt=".NET" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="48" title="Figma" alt="Figma" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="48" title="Next.js" alt="Next.js" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="48" title="Git" alt="Git" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48" title="Linux" alt="Linux" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=wordpress" width="48" title="WordPress" alt="WordPress" /></td>
+</tr>
+</table>
 
 ## 🌆 Contribution City
 
