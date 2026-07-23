@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/bbus24/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:bibesh.di2022@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-1e3a8a?style=for-the-badge&labelColor=0d1117" alt="Email" /></a>
+<a href="mailto:bbus24.a@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-1e3a8a?style=for-the-badge&labelColor=0d1117" alt="Email" /></a>
 
 </div>
 
