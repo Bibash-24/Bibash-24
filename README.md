@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:1e3a8a,100:1e40af&text=B'BUS&fontColor=ffffff&fontSize=32&fontAlignY=32&desc=Full-Stack%20Developer%20::%20Solution%20Architect%20::%20Technical%20Consultant&descAlignY=52&descSize=13&animation=fadeIn" width="100%" alt="banner" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:1e3a8a,100:1e40af&text=B'BUS&fontColor=ffffff&fontSize=32&fontAlignY=32&desc=Full-Stack%20Developer%20::%20Solution%20Architect%20::%20Technical%20Consultant&descAlignY=52&descSize=13&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:eff6ff,50:93c5fd,100:2563eb&text=B'BUS&fontColor=1e3a8a&fontSize=32&fontAlignY=32&desc=Full-Stack%20Developer%20::%20Solution%20Architect%20::%20Technical%20Consultant&descAlignY=52&descSize=13&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:1e3a8a,100:1e40af&text=B'BUS&fontColor=ffffff&fontSize=32&fontAlignY=32&desc=Full-Stack%20Developer%20::%20Solution%20Architect%20::%20Technical%20Consultant&descAlignY=52&descSize=13&animation=fadeIn" width="100%" alt="banner" />
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%26+Solution+Architect;Building+clean%2C+scalable+apps;Shipping+fast%2C+learning+faster" alt="typing" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=FFFFFF&center=true&vCenter=true&width=640&lines=Turning+ideas+into+scalable+products;Writing+code+that+scales%2C+not+just+works;Debugging+today%2C+deploying+tomorrow" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=1E3A8A&center=true&vCenter=true&width=640&lines=Turning+ideas+into+scalable+products;Writing+code+that+scales%2C+not+just+works;Debugging+today%2C+deploying+tomorrow" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=FFFFFF&center=true&vCenter=true&width=640&lines=Turning+ideas+into+scalable+products;Writing+code+that+scales%2C+not+just+works;Debugging+today%2C+deploying+tomorrow" alt="typing" />
+</picture>
 
 <br/>
 
@@ -53,13 +61,13 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48" title="Linux" alt="Linux" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=wordpress" width="48" title="WordPress" alt="WordPress" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48" title="MongoDB" alt="MongoDB" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white" height="28" title="Mongoose" alt="Mongoose" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Mongoose-800000?style=for-the-badge" height="28" title="Mongoose" alt="Mongoose" /></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28" title="MS SQL Server" alt="MS SQL Server" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" height="28" title="Chart.js" alt="Chart.js" /></td>
+<td align="center"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" height="28" title="MS SQL Server" alt="MS SQL Server" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge" height="28" title="Chart.js" alt="Chart.js" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=photoshop" width="48" title="Photoshop" alt="Photoshop" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white" height="28" title="Strapi" alt="Strapi" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge" height="28" title="Strapi" alt="Strapi" /></td>
 </tr>
 </table>
 
@@ -88,6 +96,10 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117,50:1e3a8a,100:1e40af&section=footer" width="100%" alt="footer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117,50:1e3a8a,100:1e40af&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:eff6ff,50:93c5fd,100:2563eb&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117,50:1e3a8a,100:1e40af&section=footer" width="100%" alt="footer" />
+</picture>
 
 </div>
