@@ -1,16 +1,8 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:1e3a8a,100:1e40af&text=B'BUS&fontColor=ffffff&fontSize=32&fontAlignY=32&desc=Full-Stack%20Developer%20::%20Solution%20Architect%20::%20Technical%20Consultant&descAlignY=52&descSize=13&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:eff6ff,50:93c5fd,100:2563eb&text=B'BUS&fontColor=1e3a8a&fontSize=32&fontAlignY=32&desc=Full-Stack%20Developer%20::%20Solution%20Architect%20::%20Technical%20Consultant&descAlignY=52&descSize=13&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:1e3a8a,100:1e40af&text=B'BUS&fontColor=ffffff&fontSize=32&fontAlignY=32&desc=Full-Stack%20Developer%20::%20Solution%20Architect%20::%20Technical%20Consultant&descAlignY=52&descSize=13&animation=fadeIn" width="100%" alt="banner" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:1e3a8a,100:1e40af&text=B'BUS&fontColor=ffffff&fontSize=32&fontAlignY=32&desc=Full-Stack%20Developer%20::%20Solution%20Architect%20::%20Technical%20Consultant&descAlignY=52&descSize=13&animation=fadeIn" width="100%" alt="banner" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=FFFFFF&center=true&vCenter=true&width=640&lines=Turning+ideas+into+scalable+products;Writing+code+that+scales%2C+not+just+works;Debugging+today%2C+deploying+tomorrow" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=1E3A8A&center=true&vCenter=true&width=640&lines=Turning+ideas+into+scalable+products;Writing+code+that+scales%2C+not+just+works;Debugging+today%2C+deploying+tomorrow" />
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=FFFFFF&center=true&vCenter=true&width=640&lines=Turning+ideas+into+scalable+products;Writing+code+that+scales%2C+not+just+works;Debugging+today%2C+deploying+tomorrow" alt="typing" />
-</picture>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=2563EB&center=true&vCenter=true&width=640&lines=Turning+ideas+into+scalable+products;Writing+code+that+scales%2C+not+just+works;Debugging+today%2C+deploying+tomorrow" alt="typing" />
 
 <br/>
 
@@ -96,10 +88,6 @@
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117,50:1e3a8a,100:1e40af&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:eff6ff,50:93c5fd,100:2563eb&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117,50:1e3a8a,100:1e40af&section=footer" width="100%" alt="footer" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117,50:1e3a8a,100:1e40af&section=footer" width="100%" alt="footer" />
 
 </div>
